@@ -1,8 +1,8 @@
 # json-formatter-v1
 
-Small web scraping project (Java)
+Small Java CLI that normalises JSON input.
 
-## Install
+## Build
 
 ```
 mvn -q package
